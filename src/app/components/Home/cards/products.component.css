@@ -1,0 +1,12 @@
+.card-img-top {
+  transition: transform 0.3s ease;
+}
+
+.btn-scale {
+  transition: transform 0.2s ease;
+}
+
+.image-scale:hover,
+.btn-scale:hover {
+  transform: scale(1.1);
+}
